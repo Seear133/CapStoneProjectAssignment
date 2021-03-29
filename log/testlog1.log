@@ -120,3 +120,898 @@
 2021-02-11 20:02:32,966 [main] INFO logger_File - Retail page is opened
 2021-02-11 20:02:32,973 [main] INFO logger_File - Page title  is verified
 2021-02-11 20:03:18,844 [main] INFO logger_File - Login to MyAccount   failed
+2021-03-25 13:56:04,911 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-03-25 13:56:10,951 [main] INFO logger_File - Retail page is opened
+2021-03-25 13:56:10,957 [main] INFO logger_File - Page title  is verified
+2021-03-25 13:56:11,545 [main] INFO logger_File - User click on My Account
+2021-03-25 13:56:11,796 [main] INFO logger_File - User click on Login
+2021-03-25 13:56:15,176 [main] INFO logger_File - User enter email address
+2021-03-25 13:56:15,227 [main] INFO logger_File - User enter password
+2021-03-25 13:56:16,937 [main] INFO logger_File - User click on Login button
+2021-03-25 13:56:20,875 [main] INFO logger_File - Login to MyAccount   passed
+2021-03-25 13:57:00,016 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-03-25 13:57:03,866 [main] INFO logger_File - Retail page is opened
+2021-03-25 13:57:03,883 [main] INFO logger_File - Page title  is verified
+2021-03-25 13:57:04,473 [main] INFO logger_File - User click on My Account
+2021-03-25 13:57:04,764 [main] INFO logger_File - User click on Login
+2021-03-25 13:57:08,154 [main] INFO logger_File - User enter email address
+2021-03-25 13:57:08,202 [main] INFO logger_File - User enter password
+2021-03-25 13:57:09,867 [main] INFO logger_File - User click on Login button
+2021-03-25 13:57:13,807 [main] INFO logger_File - Login to MyAccount   passed
+2021-03-25 14:07:09,387 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-25 14:07:14,181 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:07:14,192 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:07:14,654 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:07:15,753 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:07:16,158 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-25 14:07:17,136 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-25 14:07:17,142 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 14:07:20,396 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:07:20,403 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:07:20,885 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:07:21,939 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:07:22,341 [main] INFO logger_File - User added HP to the Cart
+2021-03-25 14:07:26,837 [main] INFO logger_File - User selected quantity
+2021-03-25 14:07:27,245 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:07:27,658 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-25 14:07:32,614 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 14:07:32,619 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 14:07:35,798 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:07:35,810 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:07:36,333 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:07:37,444 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:07:37,883 [main] INFO logger_File - Canon has been added
+2021-03-25 14:07:42,309 [main] INFO logger_File - User selected quantity
+2021-03-25 14:07:42,756 [main] INFO logger_File - color was selected
+2021-03-25 14:07:43,127 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:07:43,527 [main] INFO logger_File - Message was successful
+2021-03-25 14:07:48,515 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 14:07:48,522 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 14:07:51,631 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:07:51,639 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:07:52,233 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:07:53,298 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:07:57,923 [main] INFO logger_File - user click one  Canon EO
+2021-03-25 14:07:58,319 [main] INFO logger_File - user click on Canon EO review
+2021-03-25 14:07:58,897 [main] INFO logger_File - user wrote a review
+2021-03-25 14:07:59,279 [main] INFO logger_File - user clicked on contiue button
+2021-03-25 14:07:59,638 [main] INFO logger_File - User saw the message
+2021-03-25 14:08:04,574 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 14:08:04,581 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 14:08:07,708 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:08:07,713 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:08:08,235 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:08:09,253 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:08:09,919 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:08:09,932 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:08:10,366 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 14:08:13,901 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 14:08:15,874 [main] INFO logger_File - User clicked on Macbook item
+2021-03-25 14:08:16,271 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:08:16,692 [main] INFO logger_File - User saw success message
+2021-03-25 14:08:17,080 [main] INFO logger_File - User saw the ammount
+2021-03-25 14:08:17,459 [main] INFO logger_File - User clicked on cart option
+2021-03-25 14:08:17,854 [main] INFO logger_File - User clicked on red x button
+2021-03-25 14:08:18,296 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-25 14:08:23,248 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-25 14:08:23,254 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-25 14:08:26,463 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:08:26,477 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:08:26,921 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:08:28,011 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:08:28,598 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:08:28,609 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:08:29,050 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 14:08:32,591 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 14:08:32,983 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-25 14:08:33,443 [main] INFO logger_File - User saw the success message
+2021-03-25 14:08:34,114 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-25 14:08:34,449 [main] INFO logger_File - User saw the product chart
+2021-03-25 14:08:35,370 [main] INFO logger_File - Product Comparison   passed
+2021-03-25 14:16:14,412 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-25 14:16:19,444 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:16:19,454 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:16:19,945 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:16:21,025 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:16:21,425 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-25 14:16:22,400 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-25 14:16:22,408 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 14:16:25,602 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:16:25,610 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:16:26,170 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:16:27,255 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:16:27,659 [main] INFO logger_File - User added HP to the Cart
+2021-03-25 14:16:37,168 [main] INFO logger_File - User selected quantity
+2021-03-25 14:16:37,585 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:16:37,956 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-25 14:16:42,951 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 14:16:42,960 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 14:16:47,484 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:16:47,492 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:16:47,914 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:16:48,962 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:16:49,368 [main] INFO logger_File - Canon has been added
+2021-03-25 14:16:53,950 [main] INFO logger_File - User selected quantity
+2021-03-25 14:16:54,393 [main] INFO logger_File - color was selected
+2021-03-25 14:16:54,766 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:16:55,140 [main] INFO logger_File - Message was successful
+2021-03-25 14:17:00,137 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 14:17:00,145 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 14:17:03,617 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:17:03,626 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:17:04,044 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:17:05,104 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:17:09,734 [main] INFO logger_File - user click one  Canon EO
+2021-03-25 14:17:10,134 [main] INFO logger_File - user click on Canon EO review
+2021-03-25 14:17:10,680 [main] INFO logger_File - user wrote a review
+2021-03-25 14:17:11,074 [main] INFO logger_File - user clicked on contiue button
+2021-03-25 14:17:11,428 [main] INFO logger_File - User saw the message
+2021-03-25 14:17:16,362 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 14:17:16,368 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 14:17:20,779 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:17:20,789 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:17:21,207 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:17:22,381 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:17:25,676 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:17:25,682 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:17:26,107 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 14:17:26,796 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 14:17:28,513 [main] INFO logger_File - User clicked on Macbook item
+2021-03-25 14:17:28,917 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:17:57,151 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-25 14:18:01,186 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:18:01,198 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:18:01,635 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:18:02,728 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:18:03,138 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-25 14:18:04,119 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-25 14:18:04,123 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 14:18:07,569 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:18:07,577 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:18:08,004 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:18:09,061 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:18:09,494 [main] INFO logger_File - User added HP to the Cart
+2021-03-25 14:18:13,951 [main] INFO logger_File - User selected quantity
+2021-03-25 14:18:14,374 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:18:14,752 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-25 14:18:19,736 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 14:18:19,742 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 14:18:23,198 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:18:23,204 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:18:23,615 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:18:24,669 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:18:25,087 [main] INFO logger_File - Canon has been added
+2021-03-25 14:18:29,570 [main] INFO logger_File - User selected quantity
+2021-03-25 14:18:30,013 [main] INFO logger_File - color was selected
+2021-03-25 14:18:30,401 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:18:30,776 [main] INFO logger_File - Message was successful
+2021-03-25 14:18:35,763 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 14:18:35,770 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 14:18:49,009 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:18:49,018 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:18:49,449 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:18:51,315 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:18:53,102 [main] INFO logger_File - user click one  Canon EO
+2021-03-25 14:18:53,495 [main] INFO logger_File - user click on Canon EO review
+2021-03-25 14:18:54,078 [main] INFO logger_File - user wrote a review
+2021-03-25 14:18:54,467 [main] INFO logger_File - user clicked on contiue button
+2021-03-25 14:18:54,819 [main] INFO logger_File - User saw the message
+2021-03-25 14:18:59,745 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 14:18:59,750 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 14:19:03,257 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:19:03,266 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:19:03,679 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:19:04,793 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:19:05,392 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:19:05,397 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:19:05,821 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 14:19:09,183 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 14:19:10,919 [main] INFO logger_File - User clicked on Macbook item
+2021-03-25 14:19:11,312 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 14:19:11,675 [main] INFO logger_File - User saw success message
+2021-03-25 14:19:12,073 [main] INFO logger_File - User saw the ammount
+2021-03-25 14:19:12,436 [main] INFO logger_File - User clicked on cart option
+2021-03-25 14:19:12,843 [main] INFO logger_File - User clicked on red x button
+2021-03-25 14:19:13,272 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-25 14:19:18,249 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-25 14:19:18,256 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-25 14:19:21,764 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:19:21,771 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:19:22,206 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 14:19:23,314 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 14:19:24,095 [main] INFO logger_File - Retail page is opened
+2021-03-25 14:19:24,100 [main] INFO logger_File - Page title  is verified
+2021-03-25 14:19:24,548 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 14:19:27,609 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 14:19:28,003 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-25 14:19:28,450 [main] INFO logger_File - User saw the success message
+2021-03-25 14:19:29,135 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-25 14:19:29,495 [main] INFO logger_File - User saw the product chart
+2021-03-25 14:19:30,421 [main] INFO logger_File - Product Comparison   passed
+2021-03-25 16:26:50,165 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-25 16:26:54,686 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:26:54,696 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:26:55,369 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:26:56,468 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:26:56,880 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-25 16:26:57,885 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-25 16:26:57,891 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 16:27:00,988 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:27:00,996 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:27:01,612 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:27:02,705 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:27:03,128 [main] INFO logger_File - User added HP to the Cart
+2021-03-25 16:27:07,856 [main] INFO logger_File - User selected quantity
+2021-03-25 16:27:08,298 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:27:08,685 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-25 16:27:13,671 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 16:27:13,674 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 16:27:16,827 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:27:16,833 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:27:17,370 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:27:18,437 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:27:18,885 [main] INFO logger_File - Canon has been added
+2021-03-25 16:27:23,252 [main] INFO logger_File - User selected quantity
+2021-03-25 16:27:23,727 [main] INFO logger_File - color was selected
+2021-03-25 16:27:24,112 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:27:24,491 [main] INFO logger_File - Message was successful
+2021-03-25 16:27:29,480 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 16:27:29,486 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 16:27:32,715 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:27:32,723 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:27:33,284 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:27:34,343 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:27:38,962 [main] INFO logger_File - user click one  Canon EO
+2021-03-25 16:27:39,377 [main] INFO logger_File - user click on Canon EO review
+2021-03-25 16:27:39,974 [main] INFO logger_File - user wrote a review
+2021-03-25 16:27:40,353 [main] INFO logger_File - user clicked on contiue button
+2021-03-25 16:27:40,738 [main] INFO logger_File - User saw the message
+2021-03-25 16:27:45,669 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 16:27:45,673 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 16:27:48,702 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:27:48,709 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:27:49,345 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:27:50,456 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:27:51,092 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:27:51,097 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:27:51,590 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 16:27:55,015 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 16:27:56,959 [main] INFO logger_File - User clicked on Macbook item
+2021-03-25 16:27:57,356 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:27:57,776 [main] INFO logger_File - User saw success message
+2021-03-25 16:27:58,186 [main] INFO logger_File - User saw the ammount
+2021-03-25 16:27:58,563 [main] INFO logger_File - User clicked on cart option
+2021-03-25 16:27:58,973 [main] INFO logger_File - User clicked on red x button
+2021-03-25 16:28:04,036 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-03-25 16:28:04,041 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-25 16:28:07,264 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:28:07,271 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:28:07,790 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:28:08,872 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:28:09,509 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:28:09,520 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:28:09,959 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 16:28:13,337 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 16:28:13,767 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-25 16:28:14,222 [main] INFO logger_File - User saw the success message
+2021-03-25 16:28:14,875 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-25 16:28:15,232 [main] INFO logger_File - User saw the product chart
+2021-03-25 16:28:16,200 [main] INFO logger_File - Product Comparison   passed
+2021-03-25 16:30:13,810 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-25 16:30:17,699 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:30:17,711 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:30:18,433 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:30:19,536 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:30:19,952 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-25 16:30:21,033 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-25 16:30:50,105 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 16:30:54,247 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:30:54,255 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:30:54,851 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:30:55,933 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:30:56,408 [main] INFO logger_File - User added HP to the Cart
+2021-03-25 16:31:00,732 [main] INFO logger_File - User selected quantity
+2021-03-25 16:31:01,175 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:31:01,601 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-25 16:31:03,957 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 16:31:11,569 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 16:31:15,783 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:31:15,796 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:31:16,341 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:31:17,446 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:31:17,911 [main] INFO logger_File - Canon has been added
+2021-03-25 16:31:22,490 [main] INFO logger_File - User selected quantity
+2021-03-25 16:31:22,948 [main] INFO logger_File - color was selected
+2021-03-25 16:31:23,364 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:31:23,795 [main] INFO logger_File - Message was successful
+2021-03-25 16:31:28,860 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 16:31:32,739 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 16:31:36,756 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:31:36,762 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:31:37,425 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:31:38,497 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:31:43,171 [main] INFO logger_File - user click one  Canon EO
+2021-03-25 16:31:43,637 [main] INFO logger_File - user click on Canon EO review
+2021-03-25 16:31:44,330 [main] INFO logger_File - user wrote a review
+2021-03-25 16:31:44,724 [main] INFO logger_File - user clicked on contiue button
+2021-03-25 16:31:45,104 [main] INFO logger_File - User saw the message
+2021-03-25 16:31:46,188 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 16:31:59,469 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 16:32:03,546 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:32:03,553 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:32:04,169 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:32:05,291 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:32:05,983 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:32:05,994 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:32:06,514 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 16:32:09,559 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 16:32:11,261 [main] INFO logger_File - User clicked on Macbook item
+2021-03-25 16:32:11,666 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:32:12,091 [main] INFO logger_File - User saw success message
+2021-03-25 16:32:12,490 [main] INFO logger_File - User saw the ammount
+2021-03-25 16:32:12,883 [main] INFO logger_File - User clicked on cart option
+2021-03-25 16:32:13,308 [main] INFO logger_File - User clicked on red x button
+2021-03-25 16:32:13,766 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-25 16:32:14,855 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-25 16:32:49,733 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-25 16:32:53,662 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:32:53,672 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:32:54,317 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:32:55,412 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:32:56,082 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:32:56,091 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:32:56,587 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 16:32:59,920 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 16:33:00,347 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-25 16:33:00,877 [main] INFO logger_File - User saw the success message
+2021-03-25 16:33:01,557 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-25 16:33:01,910 [main] INFO logger_File - User saw the product chart
+2021-03-25 16:33:02,898 [main] INFO logger_File - Product Comparison   passed
+2021-03-25 16:34:05,043 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-25 16:34:09,029 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:34:09,036 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:34:09,688 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:34:10,771 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:34:11,210 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-25 16:34:12,296 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-25 16:34:12,302 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 16:34:15,525 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:34:15,532 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:34:16,164 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:34:17,222 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:34:17,692 [main] INFO logger_File - User added HP to the Cart
+2021-03-25 16:34:22,187 [main] INFO logger_File - User selected quantity
+2021-03-25 16:34:22,628 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:34:23,042 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-25 16:34:24,218 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 16:34:24,223 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 16:34:27,403 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:34:27,411 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:34:28,047 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:34:29,143 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:34:29,603 [main] INFO logger_File - Canon has been added
+2021-03-25 16:34:34,113 [main] INFO logger_File - User selected quantity
+2021-03-25 16:34:34,576 [main] INFO logger_File - color was selected
+2021-03-25 16:34:34,957 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:34:35,381 [main] INFO logger_File - Message was successful
+2021-03-25 16:34:36,548 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 16:34:36,553 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 16:34:39,754 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:34:39,759 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:34:40,351 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:34:41,434 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:34:46,008 [main] INFO logger_File - user click one  Canon EO
+2021-03-25 16:34:46,442 [main] INFO logger_File - user click on Canon EO review
+2021-03-25 16:34:47,069 [main] INFO logger_File - user wrote a review
+2021-03-25 16:34:47,466 [main] INFO logger_File - user clicked on contiue button
+2021-03-25 16:34:47,858 [main] INFO logger_File - User saw the message
+2021-03-25 16:34:48,958 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 16:34:48,961 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 16:34:52,069 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:34:52,074 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:34:52,667 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:34:53,750 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:34:54,398 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:34:54,411 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:34:54,891 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 16:34:58,276 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 16:34:59,878 [main] INFO logger_File - User clicked on Macbook item
+2021-03-25 16:35:00,300 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-25 16:35:00,754 [main] INFO logger_File - User saw success message
+2021-03-25 16:35:01,149 [main] INFO logger_File - User saw the ammount
+2021-03-25 16:35:01,513 [main] INFO logger_File - User clicked on cart option
+2021-03-25 16:35:01,913 [main] INFO logger_File - User clicked on red x button
+2021-03-25 16:35:02,382 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-25 16:35:03,430 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-25 16:35:03,433 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-25 16:35:06,703 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:35:06,710 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:35:07,338 [main] INFO logger_File - User clicked on DeskTop
+2021-03-25 16:35:08,425 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-25 16:35:09,095 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:35:09,107 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:35:09,588 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-25 16:35:12,758 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-25 16:35:13,163 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-25 16:35:13,646 [main] INFO logger_File - User saw the success message
+2021-03-25 16:35:14,325 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-25 16:35:14,689 [main] INFO logger_File - User saw the product chart
+2021-03-25 16:35:15,745 [main] INFO logger_File - Product Comparison   passed
+2021-03-25 16:36:41,274 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 16:36:46,164 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:36:46,177 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:36:51,352 [main] INFO logger_File - User enter email address
+2021-03-25 16:36:51,426 [main] INFO logger_File - User enter password
+2021-03-25 16:37:09,091 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-25 16:37:09,095 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-25 16:37:12,169 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:37:12,176 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:37:18,429 [main] INFO logger_File - User enter email address
+2021-03-25 16:37:18,500 [main] INFO logger_File - User enter password
+2021-03-25 16:37:40,147 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-25 16:39:46,408 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 16:39:50,750 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:39:50,760 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:39:56,650 [main] INFO logger_File - User enter email address
+2021-03-25 16:39:56,726 [main] INFO logger_File - User enter password
+2021-03-25 16:40:46,403 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-25 16:40:46,410 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-25 16:40:49,687 [main] INFO logger_File - Retail page is opened
+2021-03-25 16:40:49,693 [main] INFO logger_File - Page title  is verified
+2021-03-25 16:40:55,785 [main] INFO logger_File - User enter email address
+2021-03-25 16:40:55,850 [main] INFO logger_File - User enter password
+2021-03-25 16:41:17,483 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-26 13:58:07,359 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-26 13:58:12,282 [main] INFO logger_File - Retail page is opened
+2021-03-26 13:58:12,314 [main] INFO logger_File - Page title  is verified
+2021-03-26 13:58:18,056 [main] INFO logger_File - User enter email address
+2021-03-26 13:58:18,117 [main] INFO logger_File - User enter password
+2021-03-26 13:59:07,654 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-26 13:59:07,661 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-26 13:59:11,100 [main] INFO logger_File - Retail page is opened
+2021-03-26 13:59:11,106 [main] INFO logger_File - Page title  is verified
+2021-03-26 13:59:16,985 [main] INFO logger_File - User enter email address
+2021-03-26 13:59:17,048 [main] INFO logger_File - User enter password
+2021-03-26 13:59:38,641 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-26 14:00:40,379 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-26 14:00:44,387 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:00:44,396 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:00:44,996 [main] INFO logger_File - User clicked on DeskTop
+2021-03-26 14:00:46,103 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-26 14:00:46,518 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-26 14:00:47,501 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-26 14:00:47,507 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-26 14:00:51,142 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:00:51,149 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:00:51,680 [main] INFO logger_File - User clicked on DeskTop
+2021-03-26 14:00:52,877 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-26 14:00:53,305 [main] INFO logger_File - User added HP to the Cart
+2021-03-26 14:00:57,772 [main] INFO logger_File - User selected quantity
+2021-03-26 14:00:58,209 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-26 14:00:58,657 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-26 14:01:03,694 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-26 14:01:03,698 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-26 14:01:06,972 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:01:06,979 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:01:07,550 [main] INFO logger_File - User clicked on DeskTop
+2021-03-26 14:01:08,700 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-26 14:01:09,125 [main] INFO logger_File - Canon has been added
+2021-03-26 14:01:13,464 [main] INFO logger_File - User selected quantity
+2021-03-26 14:01:13,907 [main] INFO logger_File - color was selected
+2021-03-26 14:01:14,293 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-26 14:01:14,715 [main] INFO logger_File - Message was successful
+2021-03-26 14:01:19,707 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-26 14:01:19,715 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-26 14:01:22,922 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:01:22,928 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:01:23,511 [main] INFO logger_File - User clicked on DeskTop
+2021-03-26 14:01:24,595 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-26 14:01:29,151 [main] INFO logger_File - user click one  Canon EO
+2021-03-26 14:01:29,578 [main] INFO logger_File - user click on Canon EO review
+2021-03-26 14:01:30,149 [main] INFO logger_File - user wrote a review
+2021-03-26 14:01:30,527 [main] INFO logger_File - user clicked on contiue button
+2021-03-26 14:01:30,888 [main] INFO logger_File - User saw the message
+2021-03-26 14:01:35,820 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-26 14:01:35,827 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-26 14:01:39,062 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:01:39,068 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:01:39,664 [main] INFO logger_File - User clicked on DeskTop
+2021-03-26 14:01:40,750 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-26 14:01:41,369 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:01:41,380 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:01:41,861 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-26 14:01:45,181 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-26 14:01:47,000 [main] INFO logger_File - User clicked on Macbook item
+2021-03-26 14:01:47,394 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-26 14:01:47,794 [main] INFO logger_File - User saw success message
+2021-03-26 14:01:48,202 [main] INFO logger_File - User saw the ammount
+2021-03-26 14:01:48,568 [main] INFO logger_File - User clicked on cart option
+2021-03-26 14:01:48,978 [main] INFO logger_File - User clicked on red x button
+2021-03-26 14:01:49,385 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-26 14:01:54,354 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-26 14:01:54,359 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-26 14:01:57,745 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:01:57,752 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:01:58,308 [main] INFO logger_File - User clicked on DeskTop
+2021-03-26 14:01:59,410 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-26 14:02:00,065 [main] INFO logger_File - Retail page is opened
+2021-03-26 14:02:00,079 [main] INFO logger_File - Page title  is verified
+2021-03-26 14:02:00,544 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-26 14:02:03,763 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-26 14:02:04,168 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-26 14:02:04,662 [main] INFO logger_File - User saw the success message
+2021-03-26 14:02:05,384 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-26 14:02:05,734 [main] INFO logger_File - User saw the product chart
+2021-03-26 14:02:06,670 [main] INFO logger_File - Product Comparison   passed
+2021-03-28 14:57:25,065 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-28 14:57:29,618 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:57:29,629 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:57:30,319 [main] INFO logger_File - User clicked on DeskTop
+2021-03-28 14:57:31,409 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-28 14:57:31,860 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-28 14:57:32,871 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-28 14:57:32,876 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-28 14:57:36,093 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:57:36,099 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:57:36,707 [main] INFO logger_File - User clicked on DeskTop
+2021-03-28 14:57:37,802 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-28 14:57:38,252 [main] INFO logger_File - User added HP to the Cart
+2021-03-28 14:57:42,644 [main] INFO logger_File - User selected quantity
+2021-03-28 14:57:43,070 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-28 14:57:43,470 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-28 14:57:48,479 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-28 14:57:48,484 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-28 14:57:51,613 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:57:51,619 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:57:52,209 [main] INFO logger_File - User clicked on DeskTop
+2021-03-28 14:57:53,256 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-28 14:57:53,712 [main] INFO logger_File - Canon has been added
+2021-03-28 14:57:58,087 [main] INFO logger_File - User selected quantity
+2021-03-28 14:57:58,551 [main] INFO logger_File - color was selected
+2021-03-28 14:57:58,964 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-28 14:57:59,351 [main] INFO logger_File - Message was successful
+2021-03-28 14:58:04,350 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-28 14:58:04,357 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-28 14:58:07,589 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:58:07,595 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:58:08,167 [main] INFO logger_File - User clicked on DeskTop
+2021-03-28 14:58:09,324 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-28 14:58:14,302 [main] INFO logger_File - user click one  Canon EO
+2021-03-28 14:58:14,732 [main] INFO logger_File - user click on Canon EO review
+2021-03-28 14:58:15,326 [main] INFO logger_File - user wrote a review
+2021-03-28 14:58:15,729 [main] INFO logger_File - user clicked on contiue button
+2021-03-28 14:58:16,122 [main] INFO logger_File - User saw the message
+2021-03-28 14:58:21,065 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-28 14:58:21,070 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-28 14:58:24,228 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:58:24,234 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:58:24,875 [main] INFO logger_File - User clicked on DeskTop
+2021-03-28 14:58:25,919 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-28 14:58:26,542 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:58:26,554 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:58:27,046 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-28 14:58:30,387 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-28 14:58:32,059 [main] INFO logger_File - User clicked on Macbook item
+2021-03-28 14:58:32,470 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-28 14:58:32,889 [main] INFO logger_File - User saw success message
+2021-03-28 14:58:33,291 [main] INFO logger_File - User saw the ammount
+2021-03-28 14:58:33,675 [main] INFO logger_File - User clicked on cart option
+2021-03-28 14:58:34,087 [main] INFO logger_File - User clicked on red x button
+2021-03-28 14:58:34,514 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-28 14:58:35,531 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-28 14:58:35,535 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-28 14:58:38,958 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:58:38,970 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:58:39,531 [main] INFO logger_File - User clicked on DeskTop
+2021-03-28 14:58:40,609 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-28 14:58:41,266 [main] INFO logger_File - Retail page is opened
+2021-03-28 14:58:41,274 [main] INFO logger_File - Page title  is verified
+2021-03-28 14:58:41,722 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-28 14:58:44,888 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-28 14:58:45,304 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-28 14:58:45,753 [main] INFO logger_File - User saw the success message
+2021-03-28 14:58:46,426 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-28 14:58:46,781 [main] INFO logger_File - User saw the product chart
+2021-03-28 14:58:47,745 [main] INFO logger_File - Product Comparison   passed
+2021-03-29 15:31:05,625 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-29 15:31:09,876 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:31:09,883 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:31:10,486 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:31:11,559 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:31:12,006 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-29 15:31:13,054 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-29 15:31:13,060 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-29 15:31:16,400 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:31:16,406 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:31:16,920 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:31:17,973 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:31:18,414 [main] INFO logger_File - User added HP to the Cart
+2021-03-29 15:31:22,928 [main] INFO logger_File - User selected quantity
+2021-03-29 15:31:23,347 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 15:31:23,715 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-29 15:31:28,800 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-29 15:31:28,805 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-29 15:31:31,952 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:31:31,964 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:31:32,526 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:31:33,582 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:31:34,047 [main] INFO logger_File - Canon has been added
+2021-03-29 15:31:38,568 [main] INFO logger_File - User selected quantity
+2021-03-29 15:31:39,032 [main] INFO logger_File - color was selected
+2021-03-29 15:31:39,469 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 15:31:39,889 [main] INFO logger_File - Message was successful
+2021-03-29 15:31:45,011 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-29 15:31:45,017 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-29 15:31:48,701 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:31:48,707 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:31:49,141 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:31:50,194 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:31:54,929 [main] INFO logger_File - user click one  Canon EO
+2021-03-29 15:31:55,345 [main] INFO logger_File - user click on Canon EO review
+2021-03-29 15:31:55,936 [main] INFO logger_File - user wrote a review
+2021-03-29 15:31:56,316 [main] INFO logger_File - user clicked on contiue button
+2021-03-29 15:31:56,687 [main] INFO logger_File - User saw the message
+2021-03-29 15:32:01,723 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-29 15:32:01,728 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-29 15:32:04,969 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:32:04,975 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:32:05,507 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:32:06,574 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:32:07,185 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:32:07,195 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:32:07,712 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 15:32:11,122 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 15:32:12,699 [main] INFO logger_File - User clicked on Macbook item
+2021-03-29 15:32:13,090 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 15:32:13,525 [main] INFO logger_File - User saw success message
+2021-03-29 15:32:13,932 [main] INFO logger_File - User saw the ammount
+2021-03-29 15:32:14,314 [main] INFO logger_File - User clicked on cart option
+2021-03-29 15:32:14,727 [main] INFO logger_File - User clicked on red x button
+2021-03-29 15:32:15,175 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-29 15:32:20,233 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-29 15:32:20,237 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-29 15:32:23,447 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:32:23,452 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:32:23,974 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:32:25,051 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:32:25,662 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:32:25,669 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:32:26,214 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 15:32:29,563 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 15:32:29,977 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-29 15:32:30,479 [main] INFO logger_File - User saw the success message
+2021-03-29 15:32:31,170 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-29 15:32:31,529 [main] INFO logger_File - User saw the product chart
+2021-03-29 15:32:32,524 [main] INFO logger_File - Product Comparison   passed
+2021-03-29 15:51:43,694 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-29 15:51:47,800 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:51:47,808 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:51:48,439 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:51:49,576 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:51:50,003 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-29 15:51:51,084 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-29 15:51:51,088 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-29 15:51:54,501 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:51:54,511 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:51:55,097 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:51:56,235 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:51:56,693 [main] INFO logger_File - User added HP to the Cart
+2021-03-29 15:52:02,161 [main] INFO logger_File - User selected quantity
+2021-03-29 15:52:02,582 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 15:52:02,961 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-29 15:52:08,045 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-29 15:52:08,049 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-29 15:52:11,218 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:52:11,224 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:52:11,866 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:52:12,932 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:52:13,397 [main] INFO logger_File - Canon has been added
+2021-03-29 15:52:17,987 [main] INFO logger_File - User selected quantity
+2021-03-29 15:52:18,450 [main] INFO logger_File - color was selected
+2021-03-29 15:52:18,865 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 15:52:19,273 [main] INFO logger_File - Message was successful
+2021-03-29 15:52:24,363 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-29 15:52:24,369 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-29 15:52:27,524 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:52:27,530 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:52:28,176 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:52:29,248 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:52:33,863 [main] INFO logger_File - user click one  Canon EO
+2021-03-29 15:52:34,280 [main] INFO logger_File - user click on Canon EO review
+2021-03-29 15:52:34,926 [main] INFO logger_File - user wrote a review
+2021-03-29 15:52:35,310 [main] INFO logger_File - user clicked on contiue button
+2021-03-29 15:52:35,684 [main] INFO logger_File - User saw the message
+2021-03-29 15:52:40,712 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-29 15:52:40,717 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-29 15:52:44,205 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:52:44,218 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:52:44,723 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:52:45,823 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:52:46,472 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:52:46,478 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:52:47,007 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 15:52:50,108 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 15:52:51,955 [main] INFO logger_File - User clicked on Macbook item
+2021-03-29 15:52:52,350 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 15:52:52,761 [main] INFO logger_File - User saw success message
+2021-03-29 15:52:53,194 [main] INFO logger_File - User saw the ammount
+2021-03-29 15:52:53,588 [main] INFO logger_File - User clicked on cart option
+2021-03-29 15:52:54,020 [main] INFO logger_File - User clicked on red x button
+2021-03-29 15:52:54,477 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-29 15:52:59,541 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-29 15:52:59,544 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-29 15:53:02,886 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:53:02,891 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:53:03,481 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:53:04,565 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:53:05,221 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:53:05,228 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:53:05,726 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 15:53:09,036 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 15:53:09,484 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-29 15:53:09,981 [main] INFO logger_File - User saw the success message
+2021-03-29 15:53:10,717 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-29 15:53:11,085 [main] INFO logger_File - User saw the product chart
+2021-03-29 15:53:12,103 [main] INFO logger_File - Product Comparison   passed
+2021-03-29 15:53:12,107 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-29 15:53:15,206 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:53:15,211 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:53:15,807 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:53:16,900 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:53:17,552 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:53:17,557 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:53:18,096 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 15:53:21,470 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 15:53:21,876 [main] INFO logger_File - user clicked on Sony VaIO laptop
+2021-03-29 15:53:22,431 [main] INFO logger_File - user saw the message to login or create an account
+2021-03-29 15:53:23,507 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-03-29 15:53:23,512 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-29 15:53:26,697 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:53:26,705 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:53:27,311 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 15:53:28,466 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 15:53:29,108 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:53:29,115 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:53:29,662 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 15:53:32,961 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 15:53:34,704 [main] INFO logger_File - user clicked on MacBookPro
+2021-03-29 15:53:35,088 [main] INFO logger_File - user saw the price tag
+2021-03-29 15:53:40,175 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-03-29 15:58:34,869 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-29 15:58:39,707 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:58:39,720 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:58:45,484 [main] INFO logger_File - User enter email address
+2021-03-29 15:58:45,545 [main] INFO logger_File - User enter password
+2021-03-29 15:59:03,182 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-29 15:59:03,188 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-29 15:59:06,700 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:59:06,710 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:59:12,545 [main] INFO logger_File - User enter email address
+2021-03-29 15:59:12,598 [main] INFO logger_File - User enter password
+2021-03-29 15:59:34,277 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-29 15:59:34,281 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-29 15:59:37,353 [main] INFO logger_File - Retail page is opened
+2021-03-29 15:59:37,360 [main] INFO logger_File - Page title  is verified
+2021-03-29 15:59:43,619 [main] INFO logger_File - User enter email address
+2021-03-29 15:59:43,678 [main] INFO logger_File - User enter password
+2021-03-29 15:59:48,520 [main] INFO logger_File - User clicked on the 'edit your account information link'
+2021-03-29 15:59:50,952 [main] INFO logger_File - user entered modified the information
+2021-03-29 15:59:53,654 [main] INFO logger_File - User clicked on continue button
+2021-03-29 15:59:53,683 [main] INFO logger_File - User is able to see the message
+2021-03-29 15:59:54,656 [main] INFO logger_File - Edit your account Information   passed
+2021-03-29 16:06:15,668 [main] INFO logger_File - Scenario Retail page Items verifing Started 
+2021-03-29 16:06:19,725 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:06:19,741 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:06:20,259 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:06:21,613 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:06:22,043 [main] INFO logger_File - User is able to see all items on the desktop
+2021-03-29 16:06:23,112 [main] INFO logger_File - Retail page Items verifing   passed
+2021-03-29 16:06:23,115 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-29 16:06:26,588 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:06:26,596 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:06:27,108 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:06:28,181 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:06:28,611 [main] INFO logger_File - User added HP to the Cart
+2021-03-29 16:06:33,114 [main] INFO logger_File - User selected quantity
+2021-03-29 16:06:33,528 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 16:06:33,942 [main] INFO logger_File - user was able to see a message Successfully added
+2021-03-29 16:06:35,105 [main] INFO logger_File - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-29 16:06:35,111 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-29 16:06:38,551 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:06:38,558 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:06:39,036 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:06:40,284 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:06:40,734 [main] INFO logger_File - Canon has been added
+2021-03-29 16:06:45,258 [main] INFO logger_File - User selected quantity
+2021-03-29 16:06:45,708 [main] INFO logger_File - color was selected
+2021-03-29 16:06:46,092 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 16:06:46,490 [main] INFO logger_File - Message was successful
+2021-03-29 16:06:47,632 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-29 16:06:47,637 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-29 16:06:51,197 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:06:51,206 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:06:51,664 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:06:52,742 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:06:57,436 [main] INFO logger_File - user click one  Canon EO
+2021-03-29 16:06:57,855 [main] INFO logger_File - user click on Canon EO review
+2021-03-29 16:06:58,513 [main] INFO logger_File - user wrote a review
+2021-03-29 16:06:58,910 [main] INFO logger_File - user clicked on contiue button
+2021-03-29 16:06:59,299 [main] INFO logger_File - User saw the message
+2021-03-29 16:07:04,366 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-29 16:07:04,371 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-29 16:07:08,247 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:08,256 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:08,711 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:07:10,039 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:07:10,703 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:10,708 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:11,171 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 16:07:13,920 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 16:07:15,628 [main] INFO logger_File - User clicked on Macbook item
+2021-03-29 16:07:16,048 [main] INFO logger_File - User clicked on the add to cart button
+2021-03-29 16:07:16,440 [main] INFO logger_File - User saw success message
+2021-03-29 16:07:16,856 [main] INFO logger_File - User saw the ammount
+2021-03-29 16:07:17,242 [main] INFO logger_File - User clicked on cart option
+2021-03-29 16:07:17,672 [main] INFO logger_File - User clicked on red x button
+2021-03-29 16:07:18,149 [main] INFO logger_File - item was removed from cart and zero was shown
+2021-03-29 16:07:23,254 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-29 16:07:23,257 [main] INFO logger_File - Scenario Product Comparison Started 
+2021-03-29 16:07:26,906 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:26,916 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:27,419 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:07:28,580 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:07:29,237 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:29,241 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:29,765 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 16:07:32,618 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 16:07:33,067 [main] INFO logger_File - User clicked on MacBookComparion option
+2021-03-29 16:07:33,593 [main] INFO logger_File - User saw the success message
+2021-03-29 16:07:34,281 [main] INFO logger_File - User clicked on Product Comparison link
+2021-03-29 16:07:34,667 [main] INFO logger_File - User saw the product chart
+2021-03-29 16:07:35,659 [main] INFO logger_File - Product Comparison   passed
+2021-03-29 16:07:35,663 [main] INFO logger_File - Scenario Adding an item to Wish list Started 
+2021-03-29 16:07:39,135 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:39,143 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:39,576 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:07:40,711 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:07:41,364 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:41,375 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:41,833 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 16:07:45,000 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 16:07:45,430 [main] INFO logger_File - user clicked on Sony VaIO laptop
+2021-03-29 16:07:45,941 [main] INFO logger_File - user saw the message to login or create an account
+2021-03-29 16:07:46,974 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-03-29 16:07:46,977 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-29 16:07:50,527 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:50,532 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:50,964 [main] INFO logger_File - User clicked on DeskTop
+2021-03-29 16:07:52,122 [main] INFO logger_File - User cllicked on all show DeskTop
+2021-03-29 16:07:52,748 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:07:52,758 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:07:53,262 [main] INFO logger_File - User clicked on Laptopand NoteBooks
+2021-03-29 16:07:56,465 [main] INFO logger_File - User clicked on Show all Laptop and Notebooks
+2021-03-29 16:07:58,407 [main] INFO logger_File - user clicked on MacBookPro
+2021-03-29 16:07:58,771 [main] INFO logger_File - user saw the price tag
+2021-03-29 16:07:59,803 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-03-29 16:08:34,161 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-29 16:08:38,514 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:08:38,526 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:08:44,220 [main] INFO logger_File - User enter email address
+2021-03-29 16:08:44,288 [main] INFO logger_File - User enter password
+2021-03-29 16:09:33,893 [main] INFO logger_File - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-29 16:09:33,899 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-29 16:09:37,414 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:09:37,420 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:09:43,282 [main] INFO logger_File - User enter email address
+2021-03-29 16:09:43,346 [main] INFO logger_File - User enter password
+2021-03-29 16:10:04,909 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-03-29 16:10:04,916 [main] INFO logger_File - Scenario Edit your account Information Started 
+2021-03-29 16:10:08,419 [main] INFO logger_File - Retail page is opened
+2021-03-29 16:10:08,426 [main] INFO logger_File - Page title  is verified
+2021-03-29 16:10:14,332 [main] INFO logger_File - User enter email address
+2021-03-29 16:10:14,402 [main] INFO logger_File - User enter password
+2021-03-29 16:10:19,006 [main] INFO logger_File - User clicked on the 'edit your account information link'
+2021-03-29 16:10:21,458 [main] INFO logger_File - user entered modified the information
+2021-03-29 16:10:24,110 [main] INFO logger_File - User clicked on continue button
+2021-03-29 16:10:24,137 [main] INFO logger_File - User is able to see the message
+2021-03-29 16:10:25,111 [main] INFO logger_File - Edit your account Information   passed
