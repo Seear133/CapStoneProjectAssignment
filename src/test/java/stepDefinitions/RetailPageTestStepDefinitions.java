@@ -48,7 +48,7 @@ public class RetailPageTestStepDefinitions extends Base {
 		retailPage.clickOnRegister();
 		logger.info("User clicked on Register option");
 
-	}
+	} 
 
 	@When("^User fill the Registration form with Below information$")
 	public void user_fill_the_Registration_form_with_Below_information(DataTable personalInfo) throws Throwable {
